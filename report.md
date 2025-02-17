@@ -7,4 +7,5 @@ THe following is the brief of the steps :
  -added all required details with commit messages
  - Then merged to main 
  -added the special commit
-  -deployed to github pages
+  -deployed the site
+  -
