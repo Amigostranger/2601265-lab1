@@ -8,4 +8,4 @@ THe following is the brief of the steps :
  - Then merged to main 
  -added the special commit
   -deployed the site
-  -
+  -link to site :https://amigostranger.github.io/2601265-lab1/
